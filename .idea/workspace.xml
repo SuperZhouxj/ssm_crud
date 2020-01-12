@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e588d7-0837-45aa-afc1-69bddfca99cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,9 +56,14 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Code\maven\m2\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/maven3.6.1" />
+        <option name="mavenHome" value="D:/Code/maven/maven3.6.1" />
         <option name="userSettingsFile" value="D:\Code\maven\maven3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1QbFTGlGcbksG9BqYufHIqCYMuj" />
@@ -277,7 +283,7 @@
       <workItem from="1569047493183" duration="49051000" />
       <workItem from="1569287838839" duration="11869000" />
       <workItem from="1569458111846" duration="12614000" />
-      <workItem from="1578837398626" duration="58000" />
+      <workItem from="1578837398626" duration="1101000" />
     </task>
     <servers />
   </component>
