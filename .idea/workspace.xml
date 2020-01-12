@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9e588d7-0837-45aa-afc1-69bddfca99cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9e588d7-0837-45aa-afc1-69bddfca99cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +39,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -56,38 +50,30 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Code\maven\m2\repository" />
-        <option name="mavenHome" value="D:/Code/maven/maven3.6.1" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/maven3.6.1" />
         <option name="userSettingsFile" value="D:\Code\maven\maven3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1QbFTGlGcbksG9BqYufHIqCYMuj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/sql" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/c.tld" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.comac.curd.service" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\项目\done\ssm_crud\src\main\resources\sql" />
       <recent name="D:\Code\ideaworkspace\ssm_crud\src\main\webapp\WEB-INF\lib" />
       <recent name="D:\Code\ideaworkspace\ssm_crud\src\main\webapp\static\js" />
       <recent name="D:\Code\ideaworkspace\ssm_crud\src\main\webapp\static" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.comac.curd.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,13 +165,12 @@
       </method>
     </configuration>
     <configuration name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.63" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="ssm_crud:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="" />
+            <option name="CONTEXT_PATH" value="/ssm_crud" />
           </settings>
         </artifact>
       </deployment>
@@ -286,23 +271,10 @@
       <workItem from="1569047493183" duration="49051000" />
       <workItem from="1569287838839" duration="11869000" />
       <workItem from="1569458111846" duration="12614000" />
-      <workItem from="1578833232646" duration="164000" />
-      <workItem from="1578833491477" duration="3055000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
